@@ -74,7 +74,7 @@ public class Main {
             keep_equality_hex.add(Integer.toHexString(keep_equality.get(i)));
         }
 
-        // burda çıktıları haritalayacağız, değerlere git diyeceğiz, iflerle while for içinde
+        // burda çıktıları haritalayacağız, değerlere git diyeceğiz
         System.out.println();
         System.out.println("Haritalamayı Giriniz:");
         System.out.print("x->x^(?): ");
